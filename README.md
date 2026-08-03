@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/amangodara2314/DSA/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/amangodara2314/DSA/tree/master/0205-isomorphic-strings) |
+| [1957-delete-characters-to-make-fancy-string](https://github.com/amangodara2314/DSA/tree/master/1957-delete-characters-to-make-fancy-string) |
 ## Simulation
 |  |
 | ------- |
