@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/amangodara2314/DSA/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/amangodara2314/DSA/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/amangodara2314/DSA/tree/master/0205-isomorphic-strings) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/amangodara2314/DSA/tree/master/1957-delete-characters-to-make-fancy-string) |
@@ -24,5 +25,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/amangodara2314/DSA/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/amangodara2314/DSA/tree/master/0205-isomorphic-strings) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/amangodara2314/DSA/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
