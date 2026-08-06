@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/amangodara2314/DSA/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/amangodara2314/DSA/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/amangodara2314/DSA/tree/master/0205-isomorphic-strings) |
+| [0796-rotate-string](https://github.com/amangodara2314/DSA/tree/master/0796-rotate-string) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/amangodara2314/DSA/tree/master/1957-delete-characters-to-make-fancy-string) |
 ## Simulation
 |  |
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/amangodara2314/DSA/tree/master/0013-roman-to-integer) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/amangodara2314/DSA/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
