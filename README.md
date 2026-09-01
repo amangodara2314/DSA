@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/amangodara2314/DSA/tree/master/0042-trapping-rain-water) |
+| [0229-majority-element-ii](https://github.com/amangodara2314/DSA/tree/master/0229-majority-element-ii) |
 | [0485-max-consecutive-ones](https://github.com/amangodara2314/DSA/tree/master/0485-max-consecutive-ones) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/amangodara2314/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/amangodara2314/DSA/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/amangodara2314/DSA/tree/master/0205-isomorphic-strings) |
+| [0229-majority-element-ii](https://github.com/amangodara2314/DSA/tree/master/0229-majority-element-ii) |
 ## Math
 |  |
 | ------- |
@@ -50,4 +52,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/amangodara2314/DSA/tree/master/0042-trapping-rain-water) |
+## Sorting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/amangodara2314/DSA/tree/master/0229-majority-element-ii) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/amangodara2314/DSA/tree/master/0229-majority-element-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/amangodara2314/DSA/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
