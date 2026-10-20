@@ -26,8 +26,7 @@ MyHashMap.prototype.get = function(key) {
  * @return {void}
  */
 MyHashMap.prototype.remove = function(key) {
-    if(!this.map[key]) return -1
-    return this.map[key] = undefined
+    delete this.map[key];
 };
 
 /** 
